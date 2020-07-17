@@ -12,7 +12,7 @@
        <section>
        <article role="article">
             <header>
-                <h1><a href="article1.php" title="lire">Article 1</a></h1>
+                <h1><a href="article1.php" title="lire">Marketing : comprendre les mécanismes de la perception</a></h1>
                 <time datetime="" pubdate="pubdate"></time>
             </header>
 	        <figure>
@@ -27,12 +27,12 @@
         <section>
         <article role="article">
             <header>
-                <h1><a href="article2.php" title="lire">Article 2</a></h1>
+                <h1><a href="article2.php" title="lire">Stratégie client : comment les entreprises peuvent la redéfinir ?</a></h1>
                 <time datetime="" pubdate="pubdate"></time>
             </header>
 	        <figure>
                 <a href="article2.php" title="lire">
-                <img src="banner-43.jpg" alt="photo1" width="20%"/></a>
+                <img src="Inside-2020-04-30T151740.066-1024x535.png" alt="photo1" width="20%"/></a>
             <figcaption>Découvrez les principes fondamentaux du marketing</figcaption>
             <div class="content"></div>
 	        <footer><a href="article2.php">Continuer la lecture</a></footer>

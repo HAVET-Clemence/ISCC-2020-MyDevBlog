@@ -14,6 +14,10 @@
 
 <section>
 <img src="Inside-2020-04-30T151740.066-1024x535.png" alt="photo1" width="40%"/></a>
+<p>Stratégie client : identifier les attentes client
+Que ce soit pour un produit ou un service, en B2B ou B2C, le niveau de satisfaction augmente à mesure que les clients voient leurs exigences réalisées.
+
+Cette simple règle, apportée par Noriaki Kano dans les années 80, peut être modélisée en un diagramme avec 3 différents niveaux de résultat : les besoins, les attentes et les souhaits</p>
 </section>
 <?php  include("footer.php"); ?>
     </body>
