@@ -1,0 +1,47 @@
+@font-face {font-family:'Open Sans'; src:url("OpenSans-Regular.ttf") format("woff2");}
+@font-face {font-family:"Cornelia";src:url("Cornelia - Serif Regular - DEMO.ttf");}
+
+body {
+   background-color:#E2E2E2 ;
+   font-family:"Open Sans";
+  
+}
+header { text-align: center;
+font-family: "Cornelia - Serif Regular - DEMO.ttf";}
+h1 { text-align: center;
+color:#B38592  ;}
+
+h2 {text-align: center;}
+
+nav {background-color: #2B5B4B ;
+height: 50px;
+line-height: 45px;}
+nav a {color: white; text-decoration: none;
+   margin:0 10px;
+}
+
+.resume { text-align: center;
+}
+
+article {text-align: center;
+background-color:white;
+
+margin-left: 200px;
+
+}
+
+form {text-align: center;}
+
+footer{text-align: center;}
+
+.content {
+margin: 30px ;
+  
+text-align: justify;}
+
+section{max-width: 800px;}
+
+link{color: #B38592;}
+
+
+
